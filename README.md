@@ -5,9 +5,7 @@
 Connect with me:
 <br/><a href="https://www.linkedin.com/in/carlosaamm/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/></a>
 
-Languages and Tools:
-
-<br/>
+Languages and Tools:<br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" width="50" height="50"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50"/>
