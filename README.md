@@ -8,7 +8,7 @@ Connect with me:
 Languages and Tools:
 <br/>
 <img src="https://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" width="50" height="50"/>
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png"/>
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
