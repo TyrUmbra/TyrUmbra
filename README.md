@@ -3,7 +3,7 @@
 📫 How to reach me carlos.aamm@gmail.com
 
 Connect with me:
-(www.linkedin.com/in/carlosaamm) minanodiego
+(www.linkedin.com/in/carlosaamm)
 
 Languages and Tools:
 arduino c css3 git html5 javascript linux mysql postgresql rails react ruby
