@@ -10,7 +10,7 @@ Languages and Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" width="50" height="50"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="50" height="50"/>
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="50" height="50"/>
-<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="50" height="50"/>
+<img src="https://assets.stickpng.com/thumbs/62a74dd1223343fbc2207d00.png" width="50" height="50"/>
 <img src="https://assets.stickpng.com/images/62c48bbdd884e8c372162223.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="50" height="50"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"/>
