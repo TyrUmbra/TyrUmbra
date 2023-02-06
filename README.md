@@ -7,14 +7,13 @@ Connect with me:
 
 Languages and Tools:
 <br/>
-<img src="https://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" width="50" height="50"/>
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50"/>
-css3 git html5 javascript linux mysql postgresql rails react ruby
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" width="50" height="50"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="50" height="50"/>
+<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" height="50"/>
+<img src="https://assets.stickpng.com/images/62c48bbdd884e8c372162223.png" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="50" height="50"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"/>
+<img src="https://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png" width="50" height="50"/>
+
+
